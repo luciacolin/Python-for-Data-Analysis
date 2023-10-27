@@ -1,5 +1,7 @@
 "Python Data Analysis Project
+
 Introduction
+
 This project has been developed as part of the Python for Data Analysis course. The main objective of this project is to perform various tasks related to data analysis of cryptocurrency quotes using Python. The following tasks are covered in this project:
 
 - Reading and Representation of Currency Pair Movement
