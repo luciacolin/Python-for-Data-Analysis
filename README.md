@@ -1,4 +1,4 @@
-"Python Data Analysis Project
+Python Data Analysis Project
 
 Introduction
 
@@ -26,4 +26,3 @@ Contributions
 If you wish to contribute to this project, you are welcome to do so. Feel free to open issues, submit pull requests, or collaborate on development.
 
 Author: Lucia Colin Cosano
-" 
